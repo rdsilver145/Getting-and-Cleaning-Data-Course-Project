@@ -3,9 +3,12 @@ Getting-and-Cleaning-Data-Course-Project
 
 I. Overview
 
-II. contents of repo
+II. Contents of repo
+
 1. This file README.md
+
 2. The script for creating a tidy data set named "run_analysis.R"
+
 3. A code book describing the variables in the tidy data set named "CodeBook.md"
 
 III. run_analysis.R
